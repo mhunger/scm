@@ -4,3 +4,5 @@
 .idea/nginxmysqlphp7.iml
 .idea/vcs.xml
 .idea/workspace.xml
+.idea/
+playbook.retry
